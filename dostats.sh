@@ -1,4 +1,5 @@
 # Runs goostas on list of files
+# Once function is called, need to include the file to run the goostats on
 
 for datafile in "$@".txt
 do
